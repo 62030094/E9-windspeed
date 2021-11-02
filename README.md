@@ -1,2 +1,2 @@
-# E9-windspeed
+# g3-windspeed
 w9
